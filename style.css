@@ -1,0 +1,20 @@
+h1{
+    color: aquamarine;
+    font-size: ;
+}
+.Mariam{
+    color: blueviolet;
+}
+.Oyinkan{
+    color: brown;
+}
+#oyinloye{
+    font-size: xx-large;
+    color: black;
+}
+h1[tar]{
+    color: chocolate;
+}
+h2 span{
+    color: aqua;
+}
